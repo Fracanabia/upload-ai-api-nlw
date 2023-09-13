@@ -6,6 +6,8 @@
     "source.fixAll": true
   },
   "cSpell.words": [
-    "fastify"
+    "fastify",
+    "openai",
+    "OPENAI"
   ]
 }
